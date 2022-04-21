@@ -20,7 +20,10 @@ Shortly about me:
 [<img align="left" alt="Git" width="28px" src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" style="padding-right:10px;" />](https://git-scm.com/)
 [<img align="left" alt="Java" width="28px" src="https://cdn.worldvectorlogo.com/logos/java-14.svg" style="padding-right:10px;" />](https://dev.java/)
 
+
 <br />
+<br />
+
 ---
 
 ### Software and technologies:
@@ -30,7 +33,10 @@ Shortly about me:
 <img align="left" alt="GitHub" width="36px" src="https://cdn.worldvectorlogo.com/logos/github-icon-1.svg" />
 <img align="left" alt="Terminal" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
+
 <br />
+<br />
+
 ---
 
 
