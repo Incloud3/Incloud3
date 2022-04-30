@@ -8,7 +8,7 @@ Shortly about me:
 <br />
 - 🌱 I’m currently working full-time and studying part-time
 - 👯 I’m looking for new experiences related to widely known IT
-- 🥅 2022 Goals: broadening my knowledge of .NET Framework and task-based programming
+- 🥅 2022 Goals: broadening my knowledge of .NET Framework, task-based programming and code refactoring
 - ☕ About me: I love drinking standard / alternative coffee and snowboarding
 
 ### Languages and Tools:
