@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Damian - aka Incloud3 
 
-I’m striving for knowledge that will allow my continuous improvement in any known or new technology. My ability to learn quickly, automation of certain tasks and previous work experiences allow me to swiftly adapt to new surroundings.
+I’m striving for knowledge that will allow my continuous improvement in any known or new technology. My ability to learn quickly, problem-solving skills as well as previous work experiences allow me to swiftly adapt to new surroundings.
 
 **Currently looking for my first job in IT as a C# Developer**
 
