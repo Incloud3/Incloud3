@@ -2,7 +2,7 @@
 
 I’m striving for knowledge that will allow my continuous improvement in any known or new technology. My ability to learn quickly, problem-solving skills as well as previous work experiences allow me to swiftly adapt to new surroundings.
 
-**Currently looking for my first job in IT as a C# Developer**
+**Currently looking for my first job in IT**
 
 Shortly about me:
 <br />
@@ -19,7 +19,6 @@ Shortly about me:
 [<img align="left" alt="MySQL" width="28px" src="https://cdn.worldvectorlogo.com/logos/mysql-6.svg" style="padding-right:10px;" />](https://www.mysql.com/)
 [<img align="left" alt="Git" width="28px" src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" style="padding-right:10px;" />](https://git-scm.com/)
 [<img align="left" alt="Java" width="28px" src="https://cdn.worldvectorlogo.com/logos/java-14.svg" style="padding-right:10px;" />](https://dev.java/)
-
 
 <br />
 <br />
