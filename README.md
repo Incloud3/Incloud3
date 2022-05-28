@@ -19,6 +19,7 @@ Shortly about me:
 [<img align="left" alt="MySQL" width="28px" src="https://cdn.worldvectorlogo.com/logos/mysql-6.svg" style="padding-right:10px;" />](https://www.mysql.com/)
 [<img align="left" alt="Git" width="28px" src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" style="padding-right:10px;" />](https://git-scm.com/)
 [<img align="left" alt="Java" width="28px" src="https://cdn.worldvectorlogo.com/logos/java-14.svg" style="padding-right:10px;" />](https://dev.java/)
+[<img align="left" alt="Python" width="28px" src="https://cdn.worldvectorlogo.com/logos/python-5.svg" style="padding-right:10px;" />](https://www.python.org/)
 
 <br />
 <br />
