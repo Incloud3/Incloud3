@@ -20,6 +20,7 @@ Shortly about me:
 [<img align="left" alt="Git" width="28px" src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" style="padding-right:10px;" />](https://git-scm.com/)
 [<img align="left" alt="Java" width="28px" src="https://cdn.worldvectorlogo.com/logos/java-14.svg" style="padding-right:10px;" />](https://dev.java/)
 [<img align="left" alt="Python" width="28px" src="https://cdn.worldvectorlogo.com/logos/python-5.svg" style="padding-right:10px;" />](https://www.python.org/)
+[<img align="left" alt="Javascript" width="28px" src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" style="padding-right:10px;" />](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
 <br />
 <br />
