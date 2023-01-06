@@ -6,20 +6,20 @@ I’m striving for knowledge that will allow my continuous improvement in any kn
 
 Shortly about me:
 <br />
-- 🌱 I’m currently working full-time and studying part-time
+- 🌱 I’m currently studying part-time
 - 👯 I’m looking for new experiences related to widely known IT
-- 🥅 2022 Goals: broadening my knowledge of .NET Framework, task-based programming and code refactoring
+- 🥅 2023 Goals: broadening my knowledge of Python, .NET Framework, task-based programming and code refactoring
 - ☕ About me: I love drinking standard / alternative coffee and snowboarding
 
 ### Languages and Tools:
 [<img align="left" alt="CSharp" width="28px" src="https://cdn.worldvectorlogo.com/logos/c--4.svg" style="padding-right:10px;" />](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/)
+[<img align="left" alt="Python" width="28px" src="https://cdn.worldvectorlogo.com/logos/python-5.svg" style="padding-right:10px;" />](https://www.python.org/)
 [<img align="left" alt="Dot NET" width="28px" src="https://raw.githubusercontent.com/dotnet/brand/6afb87c4c601815acdc5d313ba15bded910ade36/logo/dotnet-logo.svg" style="padding-right:10px;" />](https://dotnet.microsoft.com/en-us/)
 [<img align="left" alt="HTML5" width="28px" src="https://cdn.worldvectorlogo.com/logos/html-1.svg" style="padding-right:10px;" />](https://developer.mozilla.org/en-US/docs/Glossary/HTML5)
 [<img align="left" alt="CSS3" width="28px" src="https://cdn.worldvectorlogo.com/logos/css-3.svg" style="padding-right:10px;" />](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [<img align="left" alt="MySQL" width="28px" src="https://cdn.worldvectorlogo.com/logos/mysql-6.svg" style="padding-right:10px;" />](https://www.mysql.com/)
 [<img align="left" alt="Git" width="28px" src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" style="padding-right:10px;" />](https://git-scm.com/)
 [<img align="left" alt="Java" width="28px" src="https://cdn.worldvectorlogo.com/logos/java-14.svg" style="padding-right:10px;" />](https://dev.java/)
-[<img align="left" alt="Python" width="28px" src="https://cdn.worldvectorlogo.com/logos/python-5.svg" style="padding-right:10px;" />](https://www.python.org/)
 [<img align="left" alt="Javascript" width="28px" src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" style="padding-right:10px;" />](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
 <br />
