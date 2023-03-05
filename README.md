@@ -6,7 +6,7 @@ I’m striving for knowledge that will allow my continuous improvement in any kn
 
 Shortly about me:
 <br />
-- 🌱 I’m currently studying part-time
+- 🌱 I’m currently studying full-time
 - 👯 I’m looking for new experiences related to widely known IT
 - 🥅 2023 Goals: broadening my knowledge of Python, .NET Framework, task-based programming and code refactoring
 - ☕ About me: I love drinking standard / alternative coffee and snowboarding
