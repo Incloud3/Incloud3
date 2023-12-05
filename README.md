@@ -2,13 +2,13 @@
 
 I’m striving for knowledge that will allow my continuous improvement in any known or new technology. My ability to learn quickly, problem-solving skills as well as previous work experiences allow me to swiftly adapt to new surroundings.
 
-**Currently looking for an entry level job in IT**
+**Junior LCDT Architect specialising in usage of Oracle APEX and ORDS**
 
 Shortly about me:
 <br />
 - 🌱 I’m currently studying full-time
-- 👯 I’m looking for new experiences related to widely known IT
-- 🥅 2023 Goals: broadening my knowledge of Python, .NET Framework, task-based programming and code refactoring
+- 👯 I’m always looking for new experiences related to widely known IT
+- 🥅 2023 Goals: broadening my knowledge of Python, .NET Framework, Oracle ecosystem, task-based programming and code refactoring
 - ☕ About me: I love drinking standard / alternative coffee and snowboarding
 
 ### Languages and Tools:
