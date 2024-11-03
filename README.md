@@ -2,14 +2,13 @@
 
 I’m striving for knowledge that will allow my continuous improvement in any known or new technology. My ability to learn quickly, problem-solving skills as well as previous work experiences allow me to swiftly adapt to new surroundings.
 
-**Junior LCDT Architect specialising in usage of Oracle APEX and ORDS**
+**AI & LCDT Architect**
 
 Shortly about me:
 <br />
-- 🌱 I’m currently studying full-time
 - 👯 I’m always looking for new experiences related to widely known IT
-- 🥅 2023 Goals: broadening my knowledge of Python, .NET Framework, Oracle ecosystem, task-based programming and code refactoring
-- ☕ About me: I love drinking standard / alternative coffee and snowboarding
+- 🥅 2025 Goals: broadening my knowledge of Python, TensorFlow, Swift, Oracle ecosystem, task-based programming and code refactoring
+- ☕ About me: I love drinking standard / alternative coffee and snowboarding / following new tech trends
 
 ### Languages and Tools:
 [<img align="left" alt="CSharp" width="28px" src="https://cdn.worldvectorlogo.com/logos/c--4.svg" style="padding-right:10px;" />](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/)
